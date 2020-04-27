@@ -1,5 +1,3 @@
-Import-Module Microsoft.Online.SharePoint.PowerShell -DisableNameChecking
-
 function Get-CSPOListSiteScript{
     param (
         [Parameter(Mandatory=$true)]
